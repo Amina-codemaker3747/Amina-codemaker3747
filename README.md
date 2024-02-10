@@ -1,12 +1,12 @@
-<b>Hi There<b/>
+<b>Hi There!👋<b/>
 <br>
-I'm using HTML, CSS JavaScript to make website wonderful.
+I'm using HTML, CSS JavaScript to make website wonderful🕺.
 <br>
-<b>I love working with</b>
+<b>🔭I love working with</b>
 <br>
 TypeScript
 <br>
-<b>I'm Learning</b>
+<b>🌱I'm Learning</b>
 <br>
 Python
 
