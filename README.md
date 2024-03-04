@@ -1,4 +1,4 @@
-![logo](https://github.com/Amina-codemaker3747/Amina-codemaker3747/blob/main/github%20banner%2Cpng.jpg)
+![logo](https://github.com/Amina-codemaker3747/Amina-codemaker3747/blob/main/github%20banner.jpj.jpg)
 <h1 align="center">Hi 👋, I'm Amina Noor</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
